@@ -1,0 +1,29 @@
+.box {
+    width: 520px;
+
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid whitesmoke;
+}
+
+th {
+    background-color: #4c4c4c;
+}
+
+tr:hover {
+    background-color: grey;
+}
+
+.updateData {
+    display: inline-block;
+    position: absolute;
+    top: 90px;
+    left: 700px;
+    margin: 5%;
+    padding: 20px;
+
+    border: 1px solid white;
+}

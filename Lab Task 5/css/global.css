@@ -1,0 +1,35 @@
+
+
+
+body {
+    margin: auto;
+  border: 3px solid #73AD21;
+  padding: 10px;
+    background-color: #3d5741;
+    padding: 20px;
+    color: whitesmoke;
+    font-family: 'roboto';
+    
+}
+
+.box {
+    width: 350px;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid white;
+}
+
+.alpha {
+    height: 10px;
+    padding-left: 75px;
+}
+
+a {
+    color: rgb(255, 251, 197);
+    font-style: italic;
+    font-size: large;
+    text-decoration: none;
+}
+
+.indexLink {
+    margin-left: 70px;
+}
